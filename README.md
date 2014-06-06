@@ -57,19 +57,18 @@ When you are finished with the assignment, push your git repository to GitHub so
 The four plots that you will need to construct are shown below.
 
 
-### Plot 1
+##Plot 1##
 
-![Global Active Power](https://github.com/SONEINT/ExData_Plotting1/raw/master/figure/unnamed-chunk-2.png)
-
+![Global Active Power1](https://github.com/SONEINT/ExData_Plotting1/raw/master/figure/unnamed-chunk-2.png)
 
 ### Plot 2
 
-
+![Global Active Power2](https://github.com/SONEINT/ExData_Plotting1/raw/master/figure/unnamed-chunk-3.png)
 
 ### Plot 3
 
-
+![Global Active Power3](https://github.com/SONEINT/ExData_Plotting1/raw/master/figure/unnamed-chunk-4.png)
 
 ### Plot 4
 
-
+![Global Active Power4](https://github.com/SONEINT/ExData_Plotting1/raw/master/figure/unnamed-chunk-5.png)

@@ -17,8 +17,10 @@ To understand my work, you should know that:
 * So, I have decided to read the file and to compute it as a `.csv`file, which was not the fastest solution in computing for this type of file (with 2,075,259 rows) ; I will try to achieve it later with `data.table()`package later (which is one of my favorite) ;
 * Nevertheless, I think that the R code with functions computing is a good achievement for me ;
 * The program is a little bit detailed in the CodeBook.md : if you check R code in each `plot(x).R`files, you will realize that a part of the requested processes are computed through a called function named `DownloadCleanPrepareData()`;
-* The R code for `DownloadCleanPrepareData()` could be checked in **DowloadCleanPrepareData.R** file ; 
-* The course project I instructions are detailed in PART II.
+* The R code for `DownloadCleanPrepareData()` could be checked in **DowloadCleanPrepareData.R** file ;
+* The plots could be checked in `plot(x).png`files; note that days abbreviations are in french (Jeu, Ven, Sam = Thu, Fri, Sat);
+* The course project I instructions are detailed in PART II ;
+* At least bu not last, I have learned a lot with Data Science Team and peers !
 
 # PART II - **Coursera Exploratory Data Analysis - Course Project 1 instructions** (Readme customized)
 

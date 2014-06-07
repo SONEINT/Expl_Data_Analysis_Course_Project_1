@@ -3,6 +3,8 @@ Expl_Data_Analysis_Course_Project_1
 
 ![Exploratory Data Analysis](https://github.com/SONEINT/Expl_Data_Analysis_Course_Project_1/raw/master/pictures/ExploratoryDataAnalysis.jpg)
 
+![UCI Machine Learning Repository](https://github.com/SONEINT/Expl_Data_Analysis_Course_Project_1/raw/master/pictures/logo.gif)
+
 Data Science specialization course - Exploratory Data Analysis - Course Project 1
 
 # PART I - **IMPORTANT INSTRUCTIONS**

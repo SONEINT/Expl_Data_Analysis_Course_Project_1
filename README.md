@@ -3,6 +3,19 @@ Expl_Data_Analysis_Course_Project_1
 
 Data Science specialization course - Exploratory Data Analysis - Course Project 1
 
+# PART I - **IMPORTANT INSTRUCTIONS**
+
+This is the course project I for Exploratory Data Analysis Course from Data Science specialization course delivered by @rdpeng and proposed by @Coursera
+
+To understand my work, you should know that:
+* I have choose to compute the code with functions (which was most difficult to achieve for me at this stade)
+* I have tested `data.table()`package, which was much faster to read and compute the subset data frames to realize the plots, but I have encountered some errors that was not possible for me to resolved before the deadline
+* I have so decided to read the file and to compute it as a `.csv`file, which is not the faster solution
+* Nevertheless, I think that the R code with functions computing is a good achievement for me
+* The program is a little bit detailed in the CodeBook.md
+* The instructions are detailed in PART II
+
+# PART II - **Coursera Exploratory Data Analysis - Course Project 1 instructions** (Readme customized)
 
 ## Introduction
 

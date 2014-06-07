@@ -5,15 +5,18 @@ Data Science specialization course - Exploratory Data Analysis - Course Project 
 
 # PART I - **IMPORTANT INSTRUCTIONS**
 
-This is the course project I for Exploratory Data Analysis Course from Data Science specialization course delivered by @rdpeng and proposed by @Coursera
+To my peers, to understand how the R code works, please read the **IMPORTANT INSTRUCTIONS** and have a look to the [CodeBook.md](https://github.com/SONEINT/Expl_Data_Analysis_Course_Project_1/blob/master/CodeBook.md) 
+
+This is the course project I for Exploratory Data Analysis course from Data Science specialization course delivered by @rdpeng and proposed by @Coursera
 
 To understand my work, you should know that:
-* I have choose to compute the code with functions (which was most difficult to achieve for me at this stade)
-* I have tested `data.table()`package, which was much faster to read and compute the subset data frames to realize the plots, but I have encountered some errors that was not possible for me to resolved before the deadline
-* I have so decided to read the file and to compute it as a `.csv`file, which is not the faster solution
-* Nevertheless, I think that the R code with functions computing is a good achievement for me
-* The program is a little bit detailed in the CodeBook.md
-* The instructions are detailed in PART II
+* I have choose to compute the code with functions (which was a challenge to achieve for me at this stade) ;
+* I have tested `data.table()`package, which was much faster to read and compute the subset data frames, but I have encountered some errors when executing the plotting functions that were not possible for me to resolved before the deadline ;
+* So, I have decided to read the file and to compute it as a `.csv`file, which was not the fastest solution in computing for this type of file (with 2,075,259 rows) ; I will try to achieve it later with `data.table()`package later (which is one of my favorite) ;
+* Nevertheless, I think that the R code with functions computing is a good achievement for me ;
+* The program is a little bit detailed in the CodeBook.md : if you check R code in each `plot(x).R`files, you will realize that a part of the requested processes are computed through a called function named `DownloadCleanPrepareData()`;
+* The R code for `DownloadCleanPrepareData()` could be checked in **DowloadCleanPrepareData.R** file ; 
+* The course project I instructions are detailed in PART II.
 
 # PART II - **Coursera Exploratory Data Analysis - Course Project 1 instructions** (Readme customized)
 

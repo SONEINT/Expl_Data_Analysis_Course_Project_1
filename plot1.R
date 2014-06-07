@@ -1,14 +1,11 @@
-# Load libraries
-library(data.table)
+source("DownloadCleanPrepare.R")
 
-# Load whole data into workspace using fread
-data <- fread('household_power_consumption.txt', header=T, sep=';')
+ComputePlot1 <- function() {
+    data_plot_1 <- DownloadCleanPrepareData()
+    par(mfrow=c(1,1))
+    png(filename = "plot1.png", width = 480, height = 480, units = "px", bg='transparent')
+    hist(data_plot_1$Global_active_power, main="Global Active Power", xlab="Global Active Power (kilowatts)", col="red")
+    dev.off()
+}
 
-# Subset only Feb 1 and 2
-feb <- subset(data, Date == '1/2/2007' | Date == '2/2/2007')
-
-# Plot histogram
-par(mfrow=c(1,1))
-png(filename='plot1.png', width=480, height=480, bg='transparent')
-hist(as.numeric(feb$Global_active_power), xlab='Global Active Power (kilowatts)', main='Global Active Power', col='red')
-dev.off()
+ComputePlot1()

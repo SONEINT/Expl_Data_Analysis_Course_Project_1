@@ -13,12 +13,12 @@ This is the course project I for Exploratory Data Analysis course from Data Scie
 
 To understand my work, you should know that:
 * I have choose to compute the code with functions (which was a challenge to achieve for me at this stade) ;
-* I have tested `data.table()`package, which was much faster to read and compute the subset data frames, but I have encountered some errors when executing the plotting functions that were not possible for me to resolved before the deadline ;
-* So, I have decided to read the file and to compute it as a `.csv`file, which was not the fastest solution in computing for this type of file (with 2,075,259 rows) ; I will try to achieve it later with `data.table()`package later (which is one of my favorite) ;
+* I have tested `data.table()` package, which was much faster to read and compute the subset data frames, but I have encountered some errors when executing the plotting functions that were not possible for me to resolved before the deadline ;
+* So, I have decided to read the file and to compute it as a `.csv` file, which was not the fastest solution in computing for this type of file (with 2,075,259 rows) ; I will try to achieve it later with `data.table()`package later (which is one of my favorite) ;
 * Nevertheless, I think that the R code with functions computing is a good achievement for me ;
-* The program is a little bit detailed in the CodeBook.md : if you check R code in each `plot(x).R`files, you will realize that a part of the requested processes are computed through a called function named `DownloadCleanPrepareData()`;
+* The program is a little bit detailed in the CodeBook.md : if you check R code in each `plot(x).R` files, you will realize that a part of the requested processes are computed through a called function named `DownloadCleanPrepareData()`;
 * The R code for `DownloadCleanPrepareData()` could be checked in **DowloadCleanPrepareData.R** file ;
-* The plots could be checked in `plot(x).png`files; note that days abbreviations are in french (Jeu, Ven, Sam = Thu, Fri, Sat);
+* The plots could be checked in `plot(x).png` files; *note that days abbreviations are in french* (Jeu, Ven, Sam = Thu, Fri, Sat), because my R environment is working in french ;
 * The course project I instructions are detailed in PART II ;
 * At least bu not last, I have learned a lot with Data Science Team and peers !
 

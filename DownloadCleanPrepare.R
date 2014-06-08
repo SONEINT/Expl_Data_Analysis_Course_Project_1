@@ -32,5 +32,5 @@ DownloadCleanPrepareData <- function() {
 
 ## Glossary
 #
-# DownloadFile = Download File from ULR function
-# CleanPrepareData = Read & Preprare OR Download & Unzip & Read & PrepareData function
+# DownloadFile () = "Download File from Url" function
+# DownloadCleanPrepareData () = "Read & Preprare OR Download & Unzip & Read & PrepareData" function
